@@ -171,7 +171,7 @@
 
 | 欄位 | 內容 |
 |---|---|
-| Stars | ★ 6.5k+ |
+| Stars | ★ 7.3k+ |
 | License | MIT |
 | 推薦度 | ⭐⭐⭐⭐（agent-native 簡報框架） |
 
@@ -363,7 +363,7 @@
 
 | 欄位 | 內容 |
 |---|---|
-| Stars | ★ 101k+ |
+| Stars | ★ 112k+ |
 | License | Apache-2.0 |
 | 推薦度 | ⭐⭐⭐⭐⭐ |
 
@@ -591,7 +591,7 @@
 
 | 欄位 | 內容 |
 |---|---|
-| Stars | ★ 57k+ |
+| Stars | ★ 64k+ |
 | License | Apache-2.0 |
 | 推薦度 | ⭐⭐⭐⭐⭐ |
 
@@ -875,7 +875,7 @@
 
 | 欄位 | 內容 |
 |---|---|
-| Stars | ★ 58 |
+| Stars | ★ 96 |
 | License | MIT |
 | 推薦度 | ⭐⭐⭐ |
 
@@ -909,7 +909,7 @@ npx -y jacobian mcp
 
 | 欄位 | 內容 |
 |---|---|
-| Stars | ★ 17 |
+| Stars | ★ 22 |
 | License | MIT |
 | 推薦度 | ⭐⭐⭐（窄但深） |
 
@@ -988,7 +988,7 @@ Claude 不擅長 token-heavy 機械式工作（成本高、context 容易爆）�
 
 | 欄位 | 內容 |
 |---|---|
-| Stars | ★ 22 |
+| Stars | ★ 25 |
 | License | MIT |
 | 推薦度 | ⭐⭐（experimental，當 reference 看就好） |
 
