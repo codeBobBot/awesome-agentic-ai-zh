@@ -119,7 +119,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 430 |
+| Stars | ★ 505 |
 | License | MIT |
 | Rating | ⭐⭐⭐ |
 
@@ -135,7 +135,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 162k+ |
+| Stars | ★ 179k+ |
 | License | No license file (none provided upstream; confirm terms before use) |
 | Rating | ⭐⭐⭐⭐⭐ (**official**, must-install) |
 
@@ -171,7 +171,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 6.5k+ |
+| Stars | ★ 8.9k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ (agent-native slide framework) |
 
@@ -183,7 +183,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 880 |
+| Stars | ★ 1k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ (high-throughput PDF) |
 
@@ -223,7 +223,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 2.9k+ |
+| Stars | ★ 3.3k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐⭐ (one server, all of Google) |
 
@@ -251,7 +251,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 908 |
+| Stars | ★ 1k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ (full M365) |
 
@@ -315,7 +315,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 927 |
+| Stars | ★ 1.1k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐ (**official**) |
 
@@ -351,7 +351,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 443 |
+| Stars | ★ 529 |
 | License | MIT |
 | Rating | ⭐⭐⭐ |
 
@@ -363,7 +363,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 101k+ |
+| Stars | ★ 123k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐⭐ |
 
@@ -387,7 +387,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 38k+ |
+| Stars | ★ 45k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐⭐ (code intelligence) |
 
@@ -415,7 +415,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 3.2k+ |
+| Stars | ★ 3.6k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐⭐ (community multi-DB) |
 
@@ -475,7 +475,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 555 |
+| Stars | ★ 630 |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ (**Redis official**) |
 
@@ -515,7 +515,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 47k+ |
+| Stars | ★ 52k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐⭐ (**Chrome official**) |
 
@@ -579,7 +579,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 2.2k+ |
+| Stars | ★ 2.5k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ (alternative Excalidraw) |
 
@@ -591,7 +591,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 57k+ |
+| Stars | ★ 76k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐⭐ |
 
@@ -619,7 +619,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 782 |
+| Stars | ★ 912 |
 | License | NOASSERTION |
 | Rating | ⭐⭐⭐⭐ (**Sentry official**) |
 
@@ -783,7 +783,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 9.2k+ |
+| Stars | ★ 10k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐ |
 
@@ -874,7 +874,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 58 |
+| Stars | ★ 198 |
 | License | MIT |
 | Rating | ⭐⭐⭐ |
 
@@ -896,7 +896,7 @@ npx -y jacobian mcp
 
 | Field | Value |
 |---|---|
-| Stars | ★ 222 |
+| Stars | ★ 303 |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐⭐ (full research workflow) |
 
@@ -908,7 +908,7 @@ npx -y jacobian mcp
 
 | Field | Value |
 |---|---|
-| Stars | ★ 17 |
+| Stars | ★ 82 |
 | License | MIT |
 | Rating | ⭐⭐⭐ (narrow but deep) |
 
@@ -920,7 +920,7 @@ npx -y jacobian mcp
 
 | Field | Value |
 |---|---|
-| Stars | ★ 50 |
+| Stars | ★ 55 |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ |
 
@@ -932,7 +932,7 @@ npx -y jacobian mcp
 
 | Field | Value |
 |---|---|
-| Stars | ★ 52 |
+| Stars | ★ 59 |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ |
 
@@ -987,7 +987,7 @@ Claude is bad at token-heavy mechanical work (cost, context blowout); Codex is b
 
 | Field | Value |
 |---|---|
-| Stars | ★ 22 |
+| Stars | ★ 30 |
 | License | MIT |
 | Rating | ⭐⭐ (experimental — treat as reference) |
 
@@ -1005,7 +1005,7 @@ Claude is bad at token-heavy mechanical work (cost, context blowout); Codex is b
 
 | Field | Value |
 |---|---|
-| Stars | ★ 97k+ |
+| Stars | ★ 109k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐ |
 
@@ -1061,7 +1061,7 @@ Claude is bad at token-heavy mechanical work (cost, context blowout); Codex is b
 
 | Field | Value |
 |---|---|
-| Stars | ★ 6.6k+ |
+| Stars | ★ 7.4k+ |
 | License | CC-BY-SA-4.0 |
 | Rating | ⭐⭐⭐⭐⭐ (**official Trail of Bits**) |
 
@@ -1073,7 +1073,7 @@ Claude is bad at token-heavy mechanical work (cost, context blowout); Codex is b
 
 | Field | Value |
 |---|---|
-| Stars | ★ 2k+ |
+| Stars | ★ 2.2k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐ |
 
@@ -1085,7 +1085,7 @@ Claude is bad at token-heavy mechanical work (cost, context blowout); Codex is b
 
 | Field | Value |
 |---|---|
-| Stars | ★ 8.3k+ |
+| Stars | ★ 14k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐ (**NVIDIA official**) |
 
@@ -1097,7 +1097,7 @@ Claude is bad at token-heavy mechanical work (cost, context blowout); Codex is b
 
 | Field | Value |
 |---|---|
-| Stars | ★ 3.7k+ |
+| Stars | ★ 4.3k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐ |
 
