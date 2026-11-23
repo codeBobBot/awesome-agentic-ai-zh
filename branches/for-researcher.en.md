@@ -53,7 +53,7 @@ Claude Code infrastructure for PhD researchers — skills, agents, hooks, rules 
 
 | Field | Value |
 |---|---|
-| Stars | ★ 28k+ |
+| Stars | ★ 30k+ |
 | License | Apache-2.0 |
 
 **What it teaches**: Autonomous deep-research agent — planner + multi-source crawl + report synthesis. Give it a research topic, get a markdown / PDF brief out.
